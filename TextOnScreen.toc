@@ -1,0 +1,9 @@
+## Interface: 120000
+## Title: Text On Screen - Put Any Text On The Screen
+## Notes: Let's you put any text on the screen
+## Author: Cratis
+## Version: @project-version@
+## X-License: GPL v3
+## X-Curse-Project-ID: 1403787
+## SavedVariablesPerCharacter: TextOnScreenDB
+TextOnScreen.lua

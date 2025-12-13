@@ -1,0 +1,8 @@
+package-as: TextOnScreen
+
+ignore:
+
+- .github
+- .gitignore
+- .previews
+- README.md
