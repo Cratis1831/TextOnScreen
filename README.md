@@ -1,4 +1,3 @@
-
 # TextOnScreen
 
 TextOnScreen lets you place one or more pieces of custom text on your screen.
@@ -22,7 +21,7 @@ All settings are saved **per character**.
 1. Close World of Warcraft.
 2. Copy the `TextOnScreen` folder into:
 
-	`World of Warcraft/_retail_/Interface/AddOns/`
+   `World of Warcraft/_retail_/Interface/AddOns/`
 
 3. Start WoW and make sure **TextOnScreen** is enabled on the AddOns button at the character select screen.
 
@@ -107,4 +106,3 @@ You can resize the settings window using the grip in the bottom-right corner.
 
 - If the window or text acts strangely after an update, try `/reload`.
 - If you don’t see the addon, confirm it’s enabled at character select.
-
