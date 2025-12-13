@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 110207
 ## Title: Text On Screen - Put Any Text On The Screen
 ## Notes: Let's you put any text on the screen
 ## Author: Cratis
